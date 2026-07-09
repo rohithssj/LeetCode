@@ -1,12 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String org = String.valueOf(x);
-        String dup = new StringBuilder(org).reverse().toString();
-        if(org.equals(dup)){
+        int org = x;
+        int rev = 0;
+        if(x<0) return false;
+        while(org>0){
+            int digit = org%10;
+            rev = (rev*10)+digit;
+            org = org/10;
+        }
+        if(rev==x){
             return true;
         }
         else{
             return false;
-        }
+    }
     }
 }
