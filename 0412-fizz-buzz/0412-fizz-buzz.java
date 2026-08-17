@@ -1,23 +1,23 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-           ArrayList <String> arr = new ArrayList<>();
-           for(int i = 1;i<=n;i++){
-            if(i%3==0&&i%5==0){
+        ArrayList <String> arr = new ArrayList<>();
+
+        for(int i = 1;i<=n;i++){
+            if(i%3==0 && i%5==0){
                 arr.add("FizzBuzz");
             }
-            else if(i%3==0){
+           else if(i%3==0){
                 arr.add("Fizz");
             }
-           else if(i%5==0){
+            else if(i%5==0){
                 arr.add("Buzz");
             }
             
             else{
-                String num = String.valueOf(i);
-                arr.add(num);
+                String temp = String.valueOf(i);
+                arr.add(temp);
             }
-            
-           } 
-           return arr;
+        }
+        return arr;
     }
 }
