@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rohithssj/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/rohithssj/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rohithssj/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
