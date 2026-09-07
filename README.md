@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rohithssj/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/rohithssj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rohithssj/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/rohithssj/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rohithssj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
