@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/rohithssj/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/rohithssj/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rohithssj/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohithssj/LeetCode/tree/master/1480-running-sum-of-1d-array) |
