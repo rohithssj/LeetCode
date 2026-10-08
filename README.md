@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohithssj/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/rohithssj/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohithssj/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
