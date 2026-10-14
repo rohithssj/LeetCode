@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohithssj/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/rohithssj/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohithssj/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rohithssj/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohithssj/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohithssj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rohithssj/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rohithssj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rohithssj/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithssj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohithssj/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
